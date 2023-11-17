@@ -12,4 +12,5 @@ A list of gnome extensions I like
 8. Search Light: My favourite extension. Ack like powertoys run in Win
 9. TopHat: Elegant performance monitor
 10. User Avatar in Quitck Settings
-
+11. Clipboard Indicator: Where I can find clipboard history
+12. Tweak: I can use it to change desktop's behaviour
