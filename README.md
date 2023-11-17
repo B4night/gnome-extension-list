@@ -9,8 +9,8 @@ A list of gnome extensions I like
 5. Minimize All: Like Ctrl+D in win
 6. Quick Setting Tweaker: Add more interactive buttons to Quick Settings
 7. Remove Alt+Tab Delay
-8. Search Light: My favourite extension. Ack like powertoys run in Win
+8. Search Light: My favorite extension. Act like powertoys run in Win
 9. TopHat: Elegant performance monitor
-10. User Avatar in Quitck Settings
+10. User Avatar in Quick Settings
 11. Clipboard Indicator: Where I can find clipboard history
-12. Tweak: I can use it to change desktop's behaviour
+12. Tweak: I can use it to change desktop's behavior
