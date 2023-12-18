@@ -1,7 +1,9 @@
 # gnome-extension-list
+
 A list of gnome extensions I like
 
 # Lists
+
 1. Extension Manager: For easily installing extensions
 2. Coverflow Alt-Tab: Add a animation when pressing Alt+Tab
 3. Blur my Shell: For refreshing purpose
@@ -14,3 +16,6 @@ A list of gnome extensions I like
 10. User Avatar in Quick Settings
 11. Clipboard Indicator: Where I can find clipboard history
 12. Tweak: I can use it to change desktop's behavior
+13. Just Perfection: more features than tweak
+14. OpenWeather: weather plugin, do not support gnome>44. But there's a solution at this plugin's website
+15. 
